@@ -47,3 +47,5 @@ Monitoramento de Riscos e Indicadores de Desempenho: Utilizar indicadores de des
 
 Ao adotar essas práticas, a Caixa Seguradora pode mitigar significativamente os riscos cibernético, de mercado e operacional, protegendo seus ativos e assegurando a continuidade de suas operações.
 
+https://drive.google.com/drive/folders/1Ik6qwEvF0SOVkCXOya7IeX7E_Wh4e-VF?usp=sharing
+
